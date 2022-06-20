@@ -1,0 +1,62 @@
+[
+    {
+        "a_hole_position": 790,
+        "z_grab_height": 320
+    },
+    {
+        "name": "uran",
+        "pos_a": 2270,
+        "pos_b": 706,
+		"lowering_height" : 4000
+    },
+    {
+        "name": "pluton",
+        "pos_a": 2270,
+        "pos_b": 1260
+    },
+    {
+        "name": "neptun",
+        "pos_a": 2330,
+        "pos_b": 1030
+    },
+    {
+        "name": "jowisz",
+        "pos_a": 2480,
+        "pos_b": 2140
+    },
+    {
+        "name": "el115",
+        "pos_a": 2530,
+        "pos_b": 1900
+    },
+    {
+        "name": "zloto",
+        "pos_a": 2400,
+        "pos_b": 1600
+    },
+    {
+        "name": "miedz",
+        "pos_a": 2270,
+        "pos_b": 1769
+    },
+    {
+        "name": "platyna",
+        "pos_a": 2330,
+        "pos_b": 2080
+    },
+    {
+        "name": "glutamio",
+        "pos_a": 2480,
+        "pos_b": 1090
+    },
+    {
+        "name": "vibraniu",
+        "pos_a": 2530,
+        "pos_b": 1410
+    },
+    {
+        "name": "arbuzon",
+        "pos_a": 2530,
+        "pos_b": 849
+    }
+]
