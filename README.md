@@ -6,4 +6,3 @@ robotic arm
 ![photo 3](/photo/photo3.jpg?raw=true "Base rear")
 ![photo 4](/photo/photo4.jpg?raw=true "Electronics")
 ![photo 5](/photo/photo5.jpg?raw=true "Lead mag with capsules")
-![ScreenShot](https://raw.github.com/zw-v/handler/main/photo/photo1.jpg)
